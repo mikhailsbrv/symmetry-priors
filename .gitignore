@@ -1,1 +1,29 @@
-.venv
+.venv/
+venv/
+
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Local environment and OS files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+
+# Model weights; the letter dataset is allowed
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+!/data/letters.pt
+
+# Large per-epoch probability archives (about 492 MiB in total)
+/results/letters_scale_epochwise/*_probabilities.npz

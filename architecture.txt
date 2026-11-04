@@ -1,0 +1,59 @@
+DeiT-Tiny/16
+B = batch size
+
+INPUT
+X: [B, 3, 224, 224]
+
+PATCHES
+X.reshape(B, 3, 14, 16, 14, 16)
+ .permute(0, 2, 4, 1, 3, 5)
+ .reshape(B, 196, 768)                          -> [B, 196, 768]
+X @ W_patch.T + b_patch                        -> [B, 196, 192]
+W_patch: [192, 768], b_patch: [192]
+
+CLS + POSITION
+CLS: [1, 1, 192] -> expand(B, 1, 192)
+cat([CLS, X], dim=1)                           -> [B, 197, 192]
+X + P, P: [1, 197, 192]                        -> [B, 197, 192]
+
+TRANSFORMER BLOCK x12 (different weights in each block)
+Input X: [B, 197, 192]
+
+  Z = LayerNorm(X)                             -> [B, 197, 192]
+
+  Attention head h = 1, 2, 3:
+    Q_h = Z @ W_Qh.T + b_Qh                    -> [B, 197, 64]
+    K_h = Z @ W_Kh.T + b_Kh                    -> [B, 197, 64]
+    V_h = Z @ W_Vh.T + b_Vh                    -> [B, 197, 64]
+    W_Qh, W_Kh, W_Vh: [64, 192]
+    b_Qh, b_Kh, b_Vh: [64]
+    S_h = Q_h @ K_h.transpose(-2, -1) / sqrt(64)-> [B, 197, 197]
+    A_h = softmax(S_h, dim=-1)                 -> [B, 197, 197]
+    H_h = A_h @ V_h                           -> [B, 197, 64]
+
+  H = cat([H_1, H_2, H_3], dim=-1)             -> [B, 197, 192]
+  O = H @ W_O.T + b_O                         -> [B, 197, 192]
+  W_O: [192, 192], b_O: [192]
+  U = X + O                                   -> [B, 197, 192]
+
+  Z = LayerNorm(U)                             -> [B, 197, 192]
+  M = Z @ W_1.T + b_1                         -> [B, 197, 768]
+  M = 0.5 * M * (1 + erf(M / sqrt(2)))         -> [B, 197, 768]
+  M = M @ W_2.T + b_2                         -> [B, 197, 192]
+  W_1: [768, 192], b_1: [768]
+  W_2: [192, 768], b_2: [192]
+  Y = U + M                                   -> [B, 197, 192]
+
+  X <- Y
+
+LayerNorm(X):
+  mu = mean(X, dim=-1, keepdim=True)           -> [B, 197, 1]
+  var = mean((X-mu)^2, dim=-1, keepdim=True)   -> [B, 197, 1]
+  (X-mu) / sqrt(var + 1e-6) * gamma + beta     -> [B, 197, 192]
+  gamma, beta: [192] (different in each LayerNorm)
+
+OUTPUT
+X = LayerNorm(X)                              -> [B, 197, 192]
+X = X[:, 0, :]                                -> [B, 192]
+logits = X @ W_head.T + b_head                 -> [B, 1000]
+W_head: [1000, 192], b_head: [1000]

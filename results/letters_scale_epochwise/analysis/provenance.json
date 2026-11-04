@@ -1,0 +1,44 @@
+{
+  "big_00": {
+    "epoch": 90,
+    "donors": "",
+    "sha256": "6dc6bba0860ae420f0792beaca2f1d00e342d6112ffaeaec2dce7acd666cf198",
+    "max_probability_error": 4.802132025361061e-10
+  },
+  "big_01": {
+    "epoch": 100,
+    "donors": "A",
+    "sha256": "6eedf436fb0db843e1602456765aff73d2f4b5973e2e837f0e2065d12d515734",
+    "max_probability_error": 1.1920928955078125e-07
+  },
+  "big_05": {
+    "epoch": 120,
+    "donors": "ABCDE",
+    "sha256": "2d75db4d8fd887fae0b5324e1ddfabb04484c426b853238ccf9096b51200494a",
+    "max_probability_error": 8.940696716308594e-07
+  },
+  "big_10": {
+    "epoch": 90,
+    "donors": "ABCDEFGIJK",
+    "sha256": "dad7485c3992be56e100f3efa24ff5aa9f72405cb89ada258b0c3ff233c8d98a",
+    "max_probability_error": 5.066394805908203e-07
+  },
+  "big_15": {
+    "epoch": 120,
+    "donors": "ABCDEFGIJKLMNOP",
+    "sha256": "c5af3918c04a2886caa4af6ee2827d1f37c29e2099296fe125dbbee5eca08629",
+    "max_probability_error": 8.344650268554688e-07
+  },
+  "big_20": {
+    "epoch": 95,
+    "donors": "ABCDEFGIJKLMNOPQRSTU",
+    "sha256": "52e0fedbf69f2fd570d44f5710134e99abd861f0a6e43b90532d139d0d478f5f",
+    "max_probability_error": 4.023313522338867e-07
+  },
+  "big_25": {
+    "epoch": 100,
+    "donors": "ABCDEFGIJKLMNOPQRSTUVWXYZ",
+    "sha256": "6a59e50cc324502bde484100f3b8a817738d7fc68ec82d91b0409efdc0a198e2",
+    "max_probability_error": 1.1920928955078125e-07
+  }
+}
