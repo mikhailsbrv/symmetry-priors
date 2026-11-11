@@ -17,6 +17,10 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# Office lock files and temporary files
+~$*
+*.tmp
+
 # Model weights; the letter dataset is allowed
 *.pt
 *.pth
@@ -25,5 +29,6 @@ Thumbs.db
 *.onnx
 !/data/letters.pt
 
-# Large per-epoch probability archives (about 492 MiB in total)
+# Large per-epoch probability archives
 /results/letters_scale_epochwise/*_probabilities.npz
+/results/letters_scale_val100/*_probabilities.npz
