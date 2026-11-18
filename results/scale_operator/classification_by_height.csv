@@ -1,0 +1,61 @@
+model,font,group,height,correct,count,accuracy
+initial,Times New Roman,donors,64,1,120,0.008333333333333333
+initial,Times New Roman,donors,80,2,120,0.016666666666666666
+initial,Times New Roman,donors,96,0,120,0.0
+initial,Times New Roman,donors,112,1,120,0.008333333333333333
+initial,Times New Roman,donors,128,1,120,0.008333333333333333
+initial,Times New Roman,held_out,64,10,192,0.052083333333333336
+initial,Times New Roman,held_out,80,10,192,0.052083333333333336
+initial,Times New Roman,held_out,96,11,192,0.057291666666666664
+initial,Times New Roman,held_out,112,12,192,0.0625
+initial,Times New Roman,held_out,128,12,192,0.0625
+initial,Arial,donors,64,4,120,0.03333333333333333
+initial,Arial,donors,80,1,120,0.008333333333333333
+initial,Arial,donors,96,0,120,0.0
+initial,Arial,donors,112,1,120,0.008333333333333333
+initial,Arial,donors,128,1,120,0.008333333333333333
+initial,Arial,held_out,64,8,192,0.041666666666666664
+initial,Arial,held_out,80,11,192,0.057291666666666664
+initial,Arial,held_out,96,10,192,0.052083333333333336
+initial,Arial,held_out,112,12,192,0.0625
+initial,Arial,held_out,128,12,192,0.0625
+big_00,Times New Roman,donors,64,120,120,1.0
+big_00,Times New Roman,donors,80,0,120,0.0
+big_00,Times New Roman,donors,96,0,120,0.0
+big_00,Times New Roman,donors,112,0,120,0.0
+big_00,Times New Roman,donors,128,0,120,0.0
+big_00,Times New Roman,held_out,64,192,192,1.0
+big_00,Times New Roman,held_out,80,12,192,0.0625
+big_00,Times New Roman,held_out,96,12,192,0.0625
+big_00,Times New Roman,held_out,112,12,192,0.0625
+big_00,Times New Roman,held_out,128,12,192,0.0625
+big_00,Arial,donors,64,54,120,0.45
+big_00,Arial,donors,80,4,120,0.03333333333333333
+big_00,Arial,donors,96,0,120,0.0
+big_00,Arial,donors,112,0,120,0.0
+big_00,Arial,donors,128,0,120,0.0
+big_00,Arial,held_out,64,36,192,0.1875
+big_00,Arial,held_out,80,12,192,0.0625
+big_00,Arial,held_out,96,12,192,0.0625
+big_00,Arial,held_out,112,12,192,0.0625
+big_00,Arial,held_out,128,12,192,0.0625
+big_10,Times New Roman,donors,64,120,120,1.0
+big_10,Times New Roman,donors,80,0,120,0.0
+big_10,Times New Roman,donors,96,0,120,0.0
+big_10,Times New Roman,donors,112,31,120,0.25833333333333336
+big_10,Times New Roman,donors,128,120,120,1.0
+big_10,Times New Roman,held_out,64,192,192,1.0
+big_10,Times New Roman,held_out,80,1,192,0.005208333333333333
+big_10,Times New Roman,held_out,96,0,192,0.0
+big_10,Times New Roman,held_out,112,0,192,0.0
+big_10,Times New Roman,held_out,128,0,192,0.0
+big_10,Arial,donors,64,51,120,0.425
+big_10,Arial,donors,80,0,120,0.0
+big_10,Arial,donors,96,0,120,0.0
+big_10,Arial,donors,112,28,120,0.23333333333333334
+big_10,Arial,donors,128,48,120,0.4
+big_10,Arial,held_out,64,50,192,0.2604166666666667
+big_10,Arial,held_out,80,0,192,0.0
+big_10,Arial,held_out,96,0,192,0.0
+big_10,Arial,held_out,112,0,192,0.0
+big_10,Arial,held_out,128,0,192,0.0

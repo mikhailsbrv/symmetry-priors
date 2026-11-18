@@ -1,0 +1,833 @@
+model,font,height,method,letter,probe_fit,n,correct,mean_margin
+big_00,Times New Roman,64,original,A,True,12,12,7.9488749504089355
+big_00,Times New Roman,64,original,B,True,12,12,8.181502342224121
+big_00,Times New Roman,64,original,C,True,12,12,8.537525177001953
+big_00,Times New Roman,64,original,D,True,12,12,8.617053031921387
+big_00,Times New Roman,64,original,E,True,12,12,8.274333000183105
+big_00,Times New Roman,64,original,F,True,12,12,8.491559028625488
+big_00,Times New Roman,64,original,G,True,12,12,7.553474426269531
+big_00,Times New Roman,64,original,H,False,12,12,8.99116039276123
+big_00,Times New Roman,64,original,I,True,12,12,6.985819339752197
+big_00,Times New Roman,64,original,J,True,12,12,5.7319512367248535
+big_00,Times New Roman,64,original,K,True,12,12,8.052155494689941
+big_00,Times New Roman,64,original,L,False,12,12,8.33614730834961
+big_00,Times New Roman,64,original,M,False,12,12,9.240522384643555
+big_00,Times New Roman,64,original,N,False,12,12,8.446359634399414
+big_00,Times New Roman,64,original,O,False,12,12,7.981058120727539
+big_00,Times New Roman,64,original,P,False,12,12,8.35546588897705
+big_00,Times New Roman,64,original,Q,False,12,12,8.796969413757324
+big_00,Times New Roman,64,original,R,False,12,12,8.023697853088379
+big_00,Times New Roman,64,original,S,False,12,12,8.395482063293457
+big_00,Times New Roman,64,original,T,False,12,12,8.091048240661621
+big_00,Times New Roman,64,original,U,False,12,12,7.878206253051758
+big_00,Times New Roman,64,original,V,False,12,12,7.989801406860352
+big_00,Times New Roman,64,original,W,False,12,12,9.100016593933105
+big_00,Times New Roman,64,original,X,False,12,12,8.357882499694824
+big_00,Times New Roman,64,original,Y,False,12,12,8.377124786376953
+big_00,Times New Roman,64,original,Z,False,12,12,8.55078411102295
+big_00,Times New Roman,64,drift,A,True,12,12,7.948874388930931
+big_00,Times New Roman,64,drift,B,True,12,12,8.181501608820003
+big_00,Times New Roman,64,drift,C,True,12,12,8.537525439911581
+big_00,Times New Roman,64,drift,D,True,12,12,8.61705311404628
+big_00,Times New Roman,64,drift,E,True,12,12,8.274332468394142
+big_00,Times New Roman,64,drift,F,True,12,12,8.491558764031286
+big_00,Times New Roman,64,drift,G,True,12,12,7.553473874053565
+big_00,Times New Roman,64,drift,H,False,12,12,8.991158790308665
+big_00,Times New Roman,64,drift,I,True,12,12,6.985818718516961
+big_00,Times New Roman,64,drift,J,True,12,12,5.731950912975267
+big_00,Times New Roman,64,drift,K,True,12,12,8.05215593084311
+big_00,Times New Roman,64,drift,L,False,12,12,8.33614694642709
+big_00,Times New Roman,64,drift,M,False,12,12,9.240522332292668
+big_00,Times New Roman,64,drift,N,False,12,12,8.446359291226594
+big_00,Times New Roman,64,drift,O,False,12,12,7.981057980440121
+big_00,Times New Roman,64,drift,P,False,12,12,8.355465690669599
+big_00,Times New Roman,64,drift,Q,False,12,12,8.796968693516112
+big_00,Times New Roman,64,drift,R,False,12,12,8.023698619820339
+big_00,Times New Roman,64,drift,S,False,12,12,8.39548246102873
+big_00,Times New Roman,64,drift,T,False,12,12,8.091047120884761
+big_00,Times New Roman,64,drift,U,False,12,12,7.878205874741653
+big_00,Times New Roman,64,drift,V,False,12,12,7.989801195900713
+big_00,Times New Roman,64,drift,W,False,12,12,9.100015731532883
+big_00,Times New Roman,64,drift,X,False,12,12,8.357881567370168
+big_00,Times New Roman,64,drift,Y,False,12,12,8.377124648564997
+big_00,Times New Roman,64,drift,Z,False,12,12,8.55078468379541
+big_00,Times New Roman,64,shear4,A,True,12,12,7.948874388930931
+big_00,Times New Roman,64,shear4,B,True,12,12,8.181501608820003
+big_00,Times New Roman,64,shear4,C,True,12,12,8.537525439911581
+big_00,Times New Roman,64,shear4,D,True,12,12,8.61705311404628
+big_00,Times New Roman,64,shear4,E,True,12,12,8.274332468394142
+big_00,Times New Roman,64,shear4,F,True,12,12,8.491558764031286
+big_00,Times New Roman,64,shear4,G,True,12,12,7.553473874053565
+big_00,Times New Roman,64,shear4,H,False,12,12,8.991158790308665
+big_00,Times New Roman,64,shear4,I,True,12,12,6.985818718516961
+big_00,Times New Roman,64,shear4,J,True,12,12,5.731950912975267
+big_00,Times New Roman,64,shear4,K,True,12,12,8.05215593084311
+big_00,Times New Roman,64,shear4,L,False,12,12,8.33614694642709
+big_00,Times New Roman,64,shear4,M,False,12,12,9.240522332292668
+big_00,Times New Roman,64,shear4,N,False,12,12,8.446359291226594
+big_00,Times New Roman,64,shear4,O,False,12,12,7.981057980440121
+big_00,Times New Roman,64,shear4,P,False,12,12,8.355465690669599
+big_00,Times New Roman,64,shear4,Q,False,12,12,8.796968693516112
+big_00,Times New Roman,64,shear4,R,False,12,12,8.023698619820339
+big_00,Times New Roman,64,shear4,S,False,12,12,8.39548246102873
+big_00,Times New Roman,64,shear4,T,False,12,12,8.091047120884761
+big_00,Times New Roman,64,shear4,U,False,12,12,7.878205874741653
+big_00,Times New Roman,64,shear4,V,False,12,12,7.989801195900713
+big_00,Times New Roman,64,shear4,W,False,12,12,9.100015731532883
+big_00,Times New Roman,64,shear4,X,False,12,12,8.357881567370168
+big_00,Times New Roman,64,shear4,Y,False,12,12,8.377124648564997
+big_00,Times New Roman,64,shear4,Z,False,12,12,8.55078468379541
+big_00,Times New Roman,64,bbox_to_64,A,True,12,12,7.948873996734619
+big_00,Times New Roman,64,bbox_to_64,B,True,12,12,8.181506156921387
+big_00,Times New Roman,64,bbox_to_64,C,True,12,12,8.537528038024902
+big_00,Times New Roman,64,bbox_to_64,D,True,12,12,8.617053031921387
+big_00,Times New Roman,64,bbox_to_64,E,True,12,12,8.27432918548584
+big_00,Times New Roman,64,bbox_to_64,F,True,12,12,8.491562843322754
+big_00,Times New Roman,64,bbox_to_64,G,True,12,12,7.553478717803955
+big_00,Times New Roman,64,bbox_to_64,H,False,12,12,8.991156578063965
+big_00,Times New Roman,64,bbox_to_64,I,True,12,12,6.985819339752197
+big_00,Times New Roman,64,bbox_to_64,J,True,12,12,5.7319512367248535
+big_00,Times New Roman,64,bbox_to_64,K,True,12,12,8.05215835571289
+big_00,Times New Roman,64,bbox_to_64,L,False,12,12,8.336143493652344
+big_00,Times New Roman,64,bbox_to_64,M,False,12,12,9.240523338317871
+big_00,Times New Roman,64,bbox_to_64,N,False,12,12,8.44636058807373
+big_00,Times New Roman,64,bbox_to_64,O,False,12,12,7.9810614585876465
+big_00,Times New Roman,64,bbox_to_64,P,False,12,12,8.355463981628418
+big_00,Times New Roman,64,bbox_to_64,Q,False,12,12,8.796971321105957
+big_00,Times New Roman,64,bbox_to_64,R,False,12,12,8.023702621459961
+big_00,Times New Roman,64,bbox_to_64,S,False,12,12,8.395480155944824
+big_00,Times New Roman,64,bbox_to_64,T,False,12,12,8.091052055358887
+big_00,Times New Roman,64,bbox_to_64,U,False,12,12,7.878203868865967
+big_00,Times New Roman,64,bbox_to_64,V,False,12,12,7.989804744720459
+big_00,Times New Roman,64,bbox_to_64,W,False,12,12,9.100017547607422
+big_00,Times New Roman,64,bbox_to_64,X,False,12,12,8.357880592346191
+big_00,Times New Roman,64,bbox_to_64,Y,False,12,12,8.377127647399902
+big_00,Times New Roman,64,bbox_to_64,Z,False,12,12,8.550783157348633
+big_00,Times New Roman,128,original,A,True,12,0,-11.514426231384277
+big_00,Times New Roman,128,original,B,True,12,0,-12.374881744384766
+big_00,Times New Roman,128,original,C,True,12,0,-11.990333557128906
+big_00,Times New Roman,128,original,D,True,12,0,-13.742255210876465
+big_00,Times New Roman,128,original,E,True,12,0,-10.513649940490723
+big_00,Times New Roman,128,original,F,True,12,0,-10.942719459533691
+big_00,Times New Roman,128,original,G,True,12,0,-13.12677001953125
+big_00,Times New Roman,128,original,H,False,12,0,-10.260289192199707
+big_00,Times New Roman,128,original,I,True,12,0,-11.775925636291504
+big_00,Times New Roman,128,original,J,True,12,0,-9.168387413024902
+big_00,Times New Roman,128,original,K,True,12,0,-14.15212345123291
+big_00,Times New Roman,128,original,L,False,12,0,-9.210692405700684
+big_00,Times New Roman,128,original,M,False,12,12,9.788663864135742
+big_00,Times New Roman,128,original,N,False,12,0,-12.312071800231934
+big_00,Times New Roman,128,original,O,False,12,0,-15.532886505126953
+big_00,Times New Roman,128,original,P,False,12,0,-14.2742280960083
+big_00,Times New Roman,128,original,Q,False,12,0,-12.448298454284668
+big_00,Times New Roman,128,original,R,False,12,0,-16.283349990844727
+big_00,Times New Roman,128,original,S,False,12,0,-12.654854774475098
+big_00,Times New Roman,128,original,T,False,12,0,-12.733009338378906
+big_00,Times New Roman,128,original,U,False,12,0,-10.982353210449219
+big_00,Times New Roman,128,original,V,False,12,0,-10.976966857910156
+big_00,Times New Roman,128,original,W,False,12,0,-10.125936508178711
+big_00,Times New Roman,128,original,X,False,12,0,-13.119468688964844
+big_00,Times New Roman,128,original,Y,False,12,0,-11.421029090881348
+big_00,Times New Roman,128,original,Z,False,12,0,-12.953995704650879
+big_00,Times New Roman,128,drift,A,True,12,0,-1.9299778131695426
+big_00,Times New Roman,128,drift,B,True,12,0,-1.0629530895025143
+big_00,Times New Roman,128,drift,C,True,12,9,0.1765166292786811
+big_00,Times New Roman,128,drift,D,True,12,0,-2.2041237515966934
+big_00,Times New Roman,128,drift,E,True,12,0,-1.7687530973742696
+big_00,Times New Roman,128,drift,F,True,12,7,0.11834802151211432
+big_00,Times New Roman,128,drift,G,True,12,0,-0.6947871517579222
+big_00,Times New Roman,128,drift,H,False,12,0,-5.00610517050781
+big_00,Times New Roman,128,drift,I,True,12,1,-0.7348873954338013
+big_00,Times New Roman,128,drift,J,True,12,0,-1.5968723416076225
+big_00,Times New Roman,128,drift,K,True,12,0,-0.9369910984295169
+big_00,Times New Roman,128,drift,L,False,12,0,-4.636516237618344
+big_00,Times New Roman,128,drift,M,False,12,0,-7.662660899793656
+big_00,Times New Roman,128,drift,N,False,12,0,-1.904684790765728
+big_00,Times New Roman,128,drift,O,False,12,0,-2.023780762270022
+big_00,Times New Roman,128,drift,P,False,12,0,-3.9067918054244273
+big_00,Times New Roman,128,drift,Q,False,12,0,-3.011216759375797
+big_00,Times New Roman,128,drift,R,False,12,0,-2.692383866802444
+big_00,Times New Roman,128,drift,S,False,12,0,-3.3446646811505354
+big_00,Times New Roman,128,drift,T,False,12,0,-2.2253473989441033
+big_00,Times New Roman,128,drift,U,False,12,0,-2.1257308635470835
+big_00,Times New Roman,128,drift,V,False,12,0,-2.8890287454972206
+big_00,Times New Roman,128,drift,W,False,12,0,-3.5014607876612533
+big_00,Times New Roman,128,drift,X,False,12,0,-4.612145863056791
+big_00,Times New Roman,128,drift,Y,False,12,0,-4.304372888989967
+big_00,Times New Roman,128,drift,Z,False,12,0,-3.299487701165591
+big_00,Times New Roman,128,shear4,A,True,12,0,-2.2310711922100506
+big_00,Times New Roman,128,shear4,B,True,12,3,-0.3238316787311924
+big_00,Times New Roman,128,shear4,C,True,12,4,-0.24902919140840574
+big_00,Times New Roman,128,shear4,D,True,12,2,-0.504104739468295
+big_00,Times New Roman,128,shear4,E,True,12,0,-1.8444555485822207
+big_00,Times New Roman,128,shear4,F,True,12,10,0.9692048646601702
+big_00,Times New Roman,128,shear4,G,True,12,3,-0.3554860797860752
+big_00,Times New Roman,128,shear4,H,False,12,0,-5.4157296444573815
+big_00,Times New Roman,128,shear4,I,True,12,0,-2.12755044146858
+big_00,Times New Roman,128,shear4,J,True,12,0,-3.5240051302835336
+big_00,Times New Roman,128,shear4,K,True,12,10,0.5054247335809474
+big_00,Times New Roman,128,shear4,L,False,12,0,-5.975193716514305
+big_00,Times New Roman,128,shear4,M,False,12,0,-11.579536642019233
+big_00,Times New Roman,128,shear4,N,False,12,0,-3.0129204540079235
+big_00,Times New Roman,128,shear4,O,False,12,0,-1.9913357887782457
+big_00,Times New Roman,128,shear4,P,False,12,0,-4.261621389552001
+big_00,Times New Roman,128,shear4,Q,False,12,0,-4.121222897126639
+big_00,Times New Roman,128,shear4,R,False,12,0,-1.4672966431545786
+big_00,Times New Roman,128,shear4,S,False,12,0,-4.709300332708245
+big_00,Times New Roman,128,shear4,T,False,12,0,-2.545934356791812
+big_00,Times New Roman,128,shear4,U,False,12,0,-2.1932489032673814
+big_00,Times New Roman,128,shear4,V,False,12,0,-3.9594140370510105
+big_00,Times New Roman,128,shear4,W,False,12,0,-3.7471146701489446
+big_00,Times New Roman,128,shear4,X,False,12,0,-4.525120638205423
+big_00,Times New Roman,128,shear4,Y,False,12,0,-5.829457836065337
+big_00,Times New Roman,128,shear4,Z,False,12,0,-3.584290880625421
+big_00,Times New Roman,128,bbox_to_64,A,True,12,12,8.249223709106445
+big_00,Times New Roman,128,bbox_to_64,B,True,12,12,7.992448806762695
+big_00,Times New Roman,128,bbox_to_64,C,True,12,12,8.551129341125488
+big_00,Times New Roman,128,bbox_to_64,D,True,12,12,8.426583290100098
+big_00,Times New Roman,128,bbox_to_64,E,True,12,12,8.261653900146484
+big_00,Times New Roman,128,bbox_to_64,F,True,12,12,8.510135650634766
+big_00,Times New Roman,128,bbox_to_64,G,True,12,12,7.876230716705322
+big_00,Times New Roman,128,bbox_to_64,H,False,12,12,9.148158073425293
+big_00,Times New Roman,128,bbox_to_64,I,True,12,12,7.171352863311768
+big_00,Times New Roman,128,bbox_to_64,J,True,12,12,5.941079616546631
+big_00,Times New Roman,128,bbox_to_64,K,True,12,12,8.080280303955078
+big_00,Times New Roman,128,bbox_to_64,L,False,12,12,8.350120544433594
+big_00,Times New Roman,128,bbox_to_64,M,False,12,12,8.863253593444824
+big_00,Times New Roman,128,bbox_to_64,N,False,12,12,7.46914529800415
+big_00,Times New Roman,128,bbox_to_64,O,False,12,12,7.9788289070129395
+big_00,Times New Roman,128,bbox_to_64,P,False,12,12,8.367735862731934
+big_00,Times New Roman,128,bbox_to_64,Q,False,12,12,8.291607856750488
+big_00,Times New Roman,128,bbox_to_64,R,False,12,12,7.8986639976501465
+big_00,Times New Roman,128,bbox_to_64,S,False,12,12,8.397961616516113
+big_00,Times New Roman,128,bbox_to_64,T,False,12,12,7.685495853424072
+big_00,Times New Roman,128,bbox_to_64,U,False,12,12,7.846420764923096
+big_00,Times New Roman,128,bbox_to_64,V,False,12,12,8.255562782287598
+big_00,Times New Roman,128,bbox_to_64,W,False,12,12,9.121783256530762
+big_00,Times New Roman,128,bbox_to_64,X,False,12,12,8.348603248596191
+big_00,Times New Roman,128,bbox_to_64,Y,False,12,12,8.032820701599121
+big_00,Times New Roman,128,bbox_to_64,Z,False,12,12,8.552908897399902
+big_00,Arial,64,original,A,True,12,1,-5.297916889190674
+big_00,Arial,64,original,B,True,12,12,8.25793743133545
+big_00,Arial,64,original,C,True,12,0,-9.318131446838379
+big_00,Arial,64,original,D,True,12,12,7.172518253326416
+big_00,Arial,64,original,E,True,12,5,-2.2476112842559814
+big_00,Arial,64,original,F,True,12,8,2.158452033996582
+big_00,Arial,64,original,G,True,12,0,-7.637504577636719
+big_00,Arial,64,original,H,False,12,0,-5.518901348114014
+big_00,Arial,64,original,I,True,12,11,4.5148749351501465
+big_00,Arial,64,original,J,True,12,5,-0.2636450231075287
+big_00,Arial,64,original,K,True,12,0,-11.45689868927002
+big_00,Arial,64,original,L,False,12,4,-1.9986580610275269
+big_00,Arial,64,original,M,False,12,12,7.099613189697266
+big_00,Arial,64,original,N,False,12,0,-7.585744380950928
+big_00,Arial,64,original,O,False,12,5,-0.3639039099216461
+big_00,Arial,64,original,P,False,12,2,-2.333958625793457
+big_00,Arial,64,original,Q,False,12,0,-10.455577850341797
+big_00,Arial,64,original,R,False,12,4,-2.324526071548462
+big_00,Arial,64,original,S,False,12,0,-8.492554664611816
+big_00,Arial,64,original,T,False,12,1,-7.8875861167907715
+big_00,Arial,64,original,U,False,12,0,-7.582316875457764
+big_00,Arial,64,original,V,False,12,8,1.6001006364822388
+big_00,Arial,64,original,W,False,12,0,-6.749725341796875
+big_00,Arial,64,original,X,False,12,0,-5.591193675994873
+big_00,Arial,64,original,Y,False,12,0,-8.839447975158691
+big_00,Arial,64,original,Z,False,12,0,-4.372557640075684
+big_00,Arial,64,drift,A,True,12,1,-5.297916404665472
+big_00,Arial,64,drift,B,True,12,12,8.257937336990372
+big_00,Arial,64,drift,C,True,12,0,-9.318131319989446
+big_00,Arial,64,drift,D,True,12,12,7.172518211857697
+big_00,Arial,64,drift,E,True,12,5,-2.2476112542749775
+big_00,Arial,64,drift,F,True,12,8,2.158451412037295
+big_00,Arial,64,drift,G,True,12,0,-7.637504387448917
+big_00,Arial,64,drift,H,False,12,0,-5.518900508199529
+big_00,Arial,64,drift,I,True,12,11,4.514873964450699
+big_00,Arial,64,drift,J,True,12,5,-0.26364491565068543
+big_00,Arial,64,drift,K,True,12,0,-11.456899197814112
+big_00,Arial,64,drift,L,False,12,4,-1.998657777098374
+big_00,Arial,64,drift,M,False,12,12,7.099613182381286
+big_00,Arial,64,drift,N,False,12,0,-7.585743977342727
+big_00,Arial,64,drift,O,False,12,5,-0.3639036005021326
+big_00,Arial,64,drift,P,False,12,2,-2.3339578384466164
+big_00,Arial,64,drift,Q,False,12,0,-10.455578206710276
+big_00,Arial,64,drift,R,False,12,4,-2.324526363951787
+big_00,Arial,64,drift,S,False,12,0,-8.492553493677386
+big_00,Arial,64,drift,T,False,12,1,-7.887585300675674
+big_00,Arial,64,drift,U,False,12,0,-7.582316088656289
+big_00,Arial,64,drift,V,False,12,8,1.6001008136873685
+big_00,Arial,64,drift,W,False,12,0,-6.749726582607006
+big_00,Arial,64,drift,X,False,12,0,-5.591193274779869
+big_00,Arial,64,drift,Y,False,12,0,-8.83944638738859
+big_00,Arial,64,drift,Z,False,12,0,-4.372557840634369
+big_00,Arial,64,shear4,A,True,12,1,-5.297916404665472
+big_00,Arial,64,shear4,B,True,12,12,8.257937336990372
+big_00,Arial,64,shear4,C,True,12,0,-9.318131319989446
+big_00,Arial,64,shear4,D,True,12,12,7.172518211857697
+big_00,Arial,64,shear4,E,True,12,5,-2.2476112542749775
+big_00,Arial,64,shear4,F,True,12,8,2.158451412037295
+big_00,Arial,64,shear4,G,True,12,0,-7.637504387448917
+big_00,Arial,64,shear4,H,False,12,0,-5.518900508199529
+big_00,Arial,64,shear4,I,True,12,11,4.514873964450699
+big_00,Arial,64,shear4,J,True,12,5,-0.26364491565068543
+big_00,Arial,64,shear4,K,True,12,0,-11.456899197814112
+big_00,Arial,64,shear4,L,False,12,4,-1.998657777098374
+big_00,Arial,64,shear4,M,False,12,12,7.099613182381286
+big_00,Arial,64,shear4,N,False,12,0,-7.585743977342727
+big_00,Arial,64,shear4,O,False,12,5,-0.3639036005021326
+big_00,Arial,64,shear4,P,False,12,2,-2.3339578384466164
+big_00,Arial,64,shear4,Q,False,12,0,-10.455578206710276
+big_00,Arial,64,shear4,R,False,12,4,-2.324526363951787
+big_00,Arial,64,shear4,S,False,12,0,-8.492553493677386
+big_00,Arial,64,shear4,T,False,12,1,-7.887585300675674
+big_00,Arial,64,shear4,U,False,12,0,-7.582316088656289
+big_00,Arial,64,shear4,V,False,12,8,1.6001008136873685
+big_00,Arial,64,shear4,W,False,12,0,-6.749726582607006
+big_00,Arial,64,shear4,X,False,12,0,-5.591193274779869
+big_00,Arial,64,shear4,Y,False,12,0,-8.83944638738859
+big_00,Arial,64,shear4,Z,False,12,0,-4.372557840634369
+big_00,Arial,64,bbox_to_64,A,True,12,1,-5.297922611236572
+big_00,Arial,64,bbox_to_64,B,True,12,12,8.257930755615234
+big_00,Arial,64,bbox_to_64,C,True,12,0,-9.318129539489746
+big_00,Arial,64,bbox_to_64,D,True,12,12,7.172525882720947
+big_00,Arial,64,bbox_to_64,E,True,12,5,-2.247617721557617
+big_00,Arial,64,bbox_to_64,F,True,12,8,2.1584739685058594
+big_00,Arial,64,bbox_to_64,G,True,12,0,-7.637516498565674
+big_00,Arial,64,bbox_to_64,H,False,12,0,-5.518886566162109
+big_00,Arial,64,bbox_to_64,I,True,12,11,4.514875411987305
+big_00,Arial,64,bbox_to_64,J,True,12,5,-0.26364758610725403
+big_00,Arial,64,bbox_to_64,K,True,12,0,-11.456901550292969
+big_00,Arial,64,bbox_to_64,L,False,12,4,-1.9986438751220703
+big_00,Arial,64,bbox_to_64,M,False,12,12,7.09961462020874
+big_00,Arial,64,bbox_to_64,N,False,12,0,-7.585751056671143
+big_00,Arial,64,bbox_to_64,O,False,12,5,-0.363923043012619
+big_00,Arial,64,bbox_to_64,P,False,12,2,-2.3339695930480957
+big_00,Arial,64,bbox_to_64,Q,False,12,0,-10.455578804016113
+big_00,Arial,64,bbox_to_64,R,False,12,4,-2.3245465755462646
+big_00,Arial,64,bbox_to_64,S,False,12,0,-8.49255657196045
+big_00,Arial,64,bbox_to_64,T,False,12,1,-7.887583255767822
+big_00,Arial,64,bbox_to_64,U,False,12,0,-7.5823235511779785
+big_00,Arial,64,bbox_to_64,V,False,12,8,1.6000795364379883
+big_00,Arial,64,bbox_to_64,W,False,12,0,-6.749731540679932
+big_00,Arial,64,bbox_to_64,X,False,12,0,-5.59119176864624
+big_00,Arial,64,bbox_to_64,Y,False,12,0,-8.83945083618164
+big_00,Arial,64,bbox_to_64,Z,False,12,0,-4.372559547424316
+big_00,Arial,128,original,A,True,12,0,-11.439658164978027
+big_00,Arial,128,original,B,True,12,0,-12.684466361999512
+big_00,Arial,128,original,C,True,12,0,-13.002409934997559
+big_00,Arial,128,original,D,True,12,0,-14.380898475646973
+big_00,Arial,128,original,E,True,12,0,-10.913578987121582
+big_00,Arial,128,original,F,True,12,0,-11.298707008361816
+big_00,Arial,128,original,G,True,12,0,-13.758397102355957
+big_00,Arial,128,original,H,False,12,0,-10.182065963745117
+big_00,Arial,128,original,I,True,12,0,-11.915986061096191
+big_00,Arial,128,original,J,True,12,0,-9.386483192443848
+big_00,Arial,128,original,K,True,12,0,-14.563514709472656
+big_00,Arial,128,original,L,False,12,0,-9.674068450927734
+big_00,Arial,128,original,M,False,12,12,9.433259963989258
+big_00,Arial,128,original,N,False,12,0,-12.341721534729004
+big_00,Arial,128,original,O,False,12,0,-15.638724327087402
+big_00,Arial,128,original,P,False,12,0,-14.380997657775879
+big_00,Arial,128,original,Q,False,12,0,-12.455636024475098
+big_00,Arial,128,original,R,False,12,0,-16.408550262451172
+big_00,Arial,128,original,S,False,12,0,-12.697162628173828
+big_00,Arial,128,original,T,False,12,0,-12.356197357177734
+big_00,Arial,128,original,U,False,12,0,-11.3744478225708
+big_00,Arial,128,original,V,False,12,0,-11.165592193603516
+big_00,Arial,128,original,W,False,12,0,-9.88513469696045
+big_00,Arial,128,original,X,False,12,0,-13.138187408447266
+big_00,Arial,128,original,Y,False,12,0,-11.625805854797363
+big_00,Arial,128,original,Z,False,12,0,-13.318568229675293
+big_00,Arial,128,drift,A,True,12,0,-1.8083792715826803
+big_00,Arial,128,drift,B,True,12,0,-1.5369533912286368
+big_00,Arial,128,drift,C,True,12,1,-0.45691572931854124
+big_00,Arial,128,drift,D,True,12,0,-2.8158798453081837
+big_00,Arial,128,drift,E,True,12,0,-1.7583585750853146
+big_00,Arial,128,drift,F,True,12,9,0.11935061204466713
+big_00,Arial,128,drift,G,True,12,0,-1.1023405403185833
+big_00,Arial,128,drift,H,False,12,0,-4.838054518612835
+big_00,Arial,128,drift,I,True,12,0,-1.8523334209025595
+big_00,Arial,128,drift,J,True,12,0,-1.487541672157043
+big_00,Arial,128,drift,K,True,12,0,-1.3447210554750184
+big_00,Arial,128,drift,L,False,12,0,-4.686352236605463
+big_00,Arial,128,drift,M,False,12,0,-7.615447846600955
+big_00,Arial,128,drift,N,False,12,0,-2.2146418751031853
+big_00,Arial,128,drift,O,False,12,0,-2.1708273833701717
+big_00,Arial,128,drift,P,False,12,0,-4.103061520734462
+big_00,Arial,128,drift,Q,False,12,0,-3.0264500758097053
+big_00,Arial,128,drift,R,False,12,0,-2.797555243829178
+big_00,Arial,128,drift,S,False,12,0,-3.444827043182624
+big_00,Arial,128,drift,T,False,12,0,-2.06885252182649
+big_00,Arial,128,drift,U,False,12,0,-2.3474724835501655
+big_00,Arial,128,drift,V,False,12,0,-3.0175485615655915
+big_00,Arial,128,drift,W,False,12,0,-3.4647802717054073
+big_00,Arial,128,drift,X,False,12,0,-4.590690576861367
+big_00,Arial,128,drift,Y,False,12,0,-4.462716428611128
+big_00,Arial,128,drift,Z,False,12,0,-3.107183124141704
+big_00,Arial,128,shear4,A,True,12,0,-2.0202236413403822
+big_00,Arial,128,shear4,B,True,12,1,-1.0172035888214386
+big_00,Arial,128,shear4,C,True,12,0,-1.0224435172900337
+big_00,Arial,128,shear4,D,True,12,0,-1.3882944332174025
+big_00,Arial,128,shear4,E,True,12,0,-2.064755832942059
+big_00,Arial,128,shear4,F,True,12,5,-0.13586315236184132
+big_00,Arial,128,shear4,G,True,12,0,-0.7042215370539132
+big_00,Arial,128,shear4,H,False,12,0,-4.84323571223836
+big_00,Arial,128,shear4,I,True,12,0,-3.711506181672355
+big_00,Arial,128,shear4,J,True,12,0,-3.4719918688109175
+big_00,Arial,128,shear4,K,True,12,10,0.5927737131123317
+big_00,Arial,128,shear4,L,False,12,0,-6.363790697246501
+big_00,Arial,128,shear4,M,False,12,0,-10.28190533268071
+big_00,Arial,128,shear4,N,False,12,0,-2.405600550789865
+big_00,Arial,128,shear4,O,False,12,0,-1.9759682018120497
+big_00,Arial,128,shear4,P,False,12,0,-4.451687824428868
+big_00,Arial,128,shear4,Q,False,12,0,-3.9895285253081387
+big_00,Arial,128,shear4,R,False,12,0,-1.1895478980515775
+big_00,Arial,128,shear4,S,False,12,0,-4.508861096380501
+big_00,Arial,128,shear4,T,False,12,0,-2.4104656881160165
+big_00,Arial,128,shear4,U,False,12,0,-2.3013912082617867
+big_00,Arial,128,shear4,V,False,12,0,-3.448905302671774
+big_00,Arial,128,shear4,W,False,12,0,-3.8935099251256466
+big_00,Arial,128,shear4,X,False,12,0,-4.434326365684604
+big_00,Arial,128,shear4,Y,False,12,0,-5.785228248713878
+big_00,Arial,128,shear4,Z,False,12,0,-3.50030868553694
+big_00,Arial,128,bbox_to_64,A,True,12,1,-5.296731472015381
+big_00,Arial,128,bbox_to_64,B,True,12,12,8.049757957458496
+big_00,Arial,128,bbox_to_64,C,True,12,0,-9.042787551879883
+big_00,Arial,128,bbox_to_64,D,True,12,12,7.170703887939453
+big_00,Arial,128,bbox_to_64,E,True,12,5,-2.3420157432556152
+big_00,Arial,128,bbox_to_64,F,True,12,8,2.0854036808013916
+big_00,Arial,128,bbox_to_64,G,True,12,0,-9.1528902053833
+big_00,Arial,128,bbox_to_64,H,False,12,0,-5.6241374015808105
+big_00,Arial,128,bbox_to_64,I,True,12,12,4.334349632263184
+big_00,Arial,128,bbox_to_64,J,True,12,5,-0.34943273663520813
+big_00,Arial,128,bbox_to_64,K,True,12,0,-11.455074310302734
+big_00,Arial,128,bbox_to_64,L,False,12,4,-1.9819008111953735
+big_00,Arial,128,bbox_to_64,M,False,12,12,7.118649959564209
+big_00,Arial,128,bbox_to_64,N,False,12,0,-6.509280681610107
+big_00,Arial,128,bbox_to_64,O,False,12,3,-2.654386520385742
+big_00,Arial,128,bbox_to_64,P,False,12,2,-2.2826695442199707
+big_00,Arial,128,bbox_to_64,Q,False,12,0,-10.447775840759277
+big_00,Arial,128,bbox_to_64,R,False,12,3,-2.835815668106079
+big_00,Arial,128,bbox_to_64,S,False,12,0,-8.815134048461914
+big_00,Arial,128,bbox_to_64,T,False,12,0,-8.921584129333496
+big_00,Arial,128,bbox_to_64,U,False,12,0,-7.570960998535156
+big_00,Arial,128,bbox_to_64,V,False,12,11,4.9784464836120605
+big_00,Arial,128,bbox_to_64,W,False,12,0,-6.126984119415283
+big_00,Arial,128,bbox_to_64,X,False,12,0,-5.593936920166016
+big_00,Arial,128,bbox_to_64,Y,False,12,0,-8.089179992675781
+big_00,Arial,128,bbox_to_64,Z,False,12,1,-3.973644971847534
+big_10,Times New Roman,64,original,A,True,12,12,8.679484367370605
+big_10,Times New Roman,64,original,B,True,12,12,7.365414142608643
+big_10,Times New Roman,64,original,C,True,12,12,8.647335052490234
+big_10,Times New Roman,64,original,D,True,12,12,7.558784484863281
+big_10,Times New Roman,64,original,E,True,12,12,8.12299633026123
+big_10,Times New Roman,64,original,F,True,12,12,8.954774856567383
+big_10,Times New Roman,64,original,G,True,12,12,8.215786933898926
+big_10,Times New Roman,64,original,H,False,12,12,7.781217098236084
+big_10,Times New Roman,64,original,I,True,12,12,7.895708084106445
+big_10,Times New Roman,64,original,J,True,12,12,8.032155990600586
+big_10,Times New Roman,64,original,K,True,12,12,7.981845378875732
+big_10,Times New Roman,64,original,L,False,12,12,8.63466739654541
+big_10,Times New Roman,64,original,M,False,12,12,8.755683898925781
+big_10,Times New Roman,64,original,N,False,12,12,8.580835342407227
+big_10,Times New Roman,64,original,O,False,12,12,8.048418998718262
+big_10,Times New Roman,64,original,P,False,12,12,8.974522590637207
+big_10,Times New Roman,64,original,Q,False,12,12,8.494086265563965
+big_10,Times New Roman,64,original,R,False,12,12,8.561446189880371
+big_10,Times New Roman,64,original,S,False,12,12,8.808365821838379
+big_10,Times New Roman,64,original,T,False,12,12,8.614788055419922
+big_10,Times New Roman,64,original,U,False,12,12,8.058794975280762
+big_10,Times New Roman,64,original,V,False,12,12,9.14417552947998
+big_10,Times New Roman,64,original,W,False,12,12,9.31694507598877
+big_10,Times New Roman,64,original,X,False,12,12,8.625811576843262
+big_10,Times New Roman,64,original,Y,False,12,12,8.2401704788208
+big_10,Times New Roman,64,original,Z,False,12,12,8.89749813079834
+big_10,Times New Roman,64,drift,A,True,12,12,8.679483071885207
+big_10,Times New Roman,64,drift,B,True,12,12,7.365414613502449
+big_10,Times New Roman,64,drift,C,True,12,12,8.647335701985824
+big_10,Times New Roman,64,drift,D,True,12,12,7.558784900639281
+big_10,Times New Roman,64,drift,E,True,12,12,8.122996462196587
+big_10,Times New Roman,64,drift,F,True,12,12,8.9547744607513
+big_10,Times New Roman,64,drift,G,True,12,12,8.215786477635367
+big_10,Times New Roman,64,drift,H,False,12,12,7.781217504848603
+big_10,Times New Roman,64,drift,I,True,12,12,7.8957085472896935
+big_10,Times New Roman,64,drift,J,True,12,12,8.032155712846468
+big_10,Times New Roman,64,drift,K,True,12,12,7.98184544147657
+big_10,Times New Roman,64,drift,L,False,12,12,8.634668155456929
+big_10,Times New Roman,64,drift,M,False,12,12,8.75568473469638
+big_10,Times New Roman,64,drift,N,False,12,12,8.580835298632975
+big_10,Times New Roman,64,drift,O,False,12,12,8.048418159871447
+big_10,Times New Roman,64,drift,P,False,12,12,8.974522974573015
+big_10,Times New Roman,64,drift,Q,False,12,12,8.494085723129116
+big_10,Times New Roman,64,drift,R,False,12,12,8.561445876846642
+big_10,Times New Roman,64,drift,S,False,12,12,8.808365106236243
+big_10,Times New Roman,64,drift,T,False,12,12,8.614788636391172
+big_10,Times New Roman,64,drift,U,False,12,12,8.058795063378676
+big_10,Times New Roman,64,drift,V,False,12,12,9.144175864536967
+big_10,Times New Roman,64,drift,W,False,12,12,9.316944578917257
+big_10,Times New Roman,64,drift,X,False,12,12,8.62581151537905
+big_10,Times New Roman,64,drift,Y,False,12,12,8.240169752736692
+big_10,Times New Roman,64,drift,Z,False,12,12,8.89749952432134
+big_10,Times New Roman,64,shear4,A,True,12,12,8.679483071885207
+big_10,Times New Roman,64,shear4,B,True,12,12,7.365414613502449
+big_10,Times New Roman,64,shear4,C,True,12,12,8.647335701985824
+big_10,Times New Roman,64,shear4,D,True,12,12,7.558784900639281
+big_10,Times New Roman,64,shear4,E,True,12,12,8.122996462196587
+big_10,Times New Roman,64,shear4,F,True,12,12,8.9547744607513
+big_10,Times New Roman,64,shear4,G,True,12,12,8.215786477635367
+big_10,Times New Roman,64,shear4,H,False,12,12,7.781217504848603
+big_10,Times New Roman,64,shear4,I,True,12,12,7.8957085472896935
+big_10,Times New Roman,64,shear4,J,True,12,12,8.032155712846468
+big_10,Times New Roman,64,shear4,K,True,12,12,7.98184544147657
+big_10,Times New Roman,64,shear4,L,False,12,12,8.634668155456929
+big_10,Times New Roman,64,shear4,M,False,12,12,8.75568473469638
+big_10,Times New Roman,64,shear4,N,False,12,12,8.580835298632975
+big_10,Times New Roman,64,shear4,O,False,12,12,8.048418159871447
+big_10,Times New Roman,64,shear4,P,False,12,12,8.974522974573015
+big_10,Times New Roman,64,shear4,Q,False,12,12,8.494085723129116
+big_10,Times New Roman,64,shear4,R,False,12,12,8.561445876846642
+big_10,Times New Roman,64,shear4,S,False,12,12,8.808365106236243
+big_10,Times New Roman,64,shear4,T,False,12,12,8.614788636391172
+big_10,Times New Roman,64,shear4,U,False,12,12,8.058795063378676
+big_10,Times New Roman,64,shear4,V,False,12,12,9.144175864536967
+big_10,Times New Roman,64,shear4,W,False,12,12,9.316944578917257
+big_10,Times New Roman,64,shear4,X,False,12,12,8.62581151537905
+big_10,Times New Roman,64,shear4,Y,False,12,12,8.240169752736692
+big_10,Times New Roman,64,shear4,Z,False,12,12,8.89749952432134
+big_10,Times New Roman,64,bbox_to_64,A,True,12,12,8.679482460021973
+big_10,Times New Roman,64,bbox_to_64,B,True,12,12,7.365415096282959
+big_10,Times New Roman,64,bbox_to_64,C,True,12,12,8.647335052490234
+big_10,Times New Roman,64,bbox_to_64,D,True,12,12,7.558784484863281
+big_10,Times New Roman,64,bbox_to_64,E,True,12,12,8.12299633026123
+big_10,Times New Roman,64,bbox_to_64,F,True,12,12,8.954774856567383
+big_10,Times New Roman,64,bbox_to_64,G,True,12,12,8.215786933898926
+big_10,Times New Roman,64,bbox_to_64,H,False,12,12,7.781217575073242
+big_10,Times New Roman,64,bbox_to_64,I,True,12,12,7.895709991455078
+big_10,Times New Roman,64,bbox_to_64,J,True,12,12,8.032156944274902
+big_10,Times New Roman,64,bbox_to_64,K,True,12,12,7.981845378875732
+big_10,Times New Roman,64,bbox_to_64,L,False,12,12,8.63466739654541
+big_10,Times New Roman,64,bbox_to_64,M,False,12,12,8.755683898925781
+big_10,Times New Roman,64,bbox_to_64,N,False,12,12,8.58083438873291
+big_10,Times New Roman,64,bbox_to_64,O,False,12,12,8.048417091369629
+big_10,Times New Roman,64,bbox_to_64,P,False,12,12,8.974522590637207
+big_10,Times New Roman,64,bbox_to_64,Q,False,12,12,8.494086265563965
+big_10,Times New Roman,64,bbox_to_64,R,False,12,12,8.561446189880371
+big_10,Times New Roman,64,bbox_to_64,S,False,12,12,8.808363914489746
+big_10,Times New Roman,64,bbox_to_64,T,False,12,12,8.614788055419922
+big_10,Times New Roman,64,bbox_to_64,U,False,12,12,8.058794021606445
+big_10,Times New Roman,64,bbox_to_64,V,False,12,12,9.14417552947998
+big_10,Times New Roman,64,bbox_to_64,W,False,12,12,9.316943168640137
+big_10,Times New Roman,64,bbox_to_64,X,False,12,12,8.625811576843262
+big_10,Times New Roman,64,bbox_to_64,Y,False,12,12,8.240168571472168
+big_10,Times New Roman,64,bbox_to_64,Z,False,12,12,8.897500038146973
+big_10,Times New Roman,128,original,A,True,12,12,9.438437461853027
+big_10,Times New Roman,128,original,B,True,12,12,7.365170001983643
+big_10,Times New Roman,128,original,C,True,12,12,8.928485870361328
+big_10,Times New Roman,128,original,D,True,12,12,7.047250270843506
+big_10,Times New Roman,128,original,E,True,12,12,7.6855292320251465
+big_10,Times New Roman,128,original,F,True,12,12,8.694376945495605
+big_10,Times New Roman,128,original,G,True,12,12,7.971691131591797
+big_10,Times New Roman,128,original,H,False,12,0,-8.366141319274902
+big_10,Times New Roman,128,original,I,True,12,12,7.795919895172119
+big_10,Times New Roman,128,original,J,True,12,12,7.8286871910095215
+big_10,Times New Roman,128,original,K,True,12,12,7.822228908538818
+big_10,Times New Roman,128,original,L,False,12,0,-9.298905372619629
+big_10,Times New Roman,128,original,M,False,12,0,-9.23327350616455
+big_10,Times New Roman,128,original,N,False,12,0,-8.9970703125
+big_10,Times New Roman,128,original,O,False,12,0,-7.962290287017822
+big_10,Times New Roman,128,original,P,False,12,0,-9.020938873291016
+big_10,Times New Roman,128,original,Q,False,12,0,-10.33514404296875
+big_10,Times New Roman,128,original,R,False,12,0,-7.131099224090576
+big_10,Times New Roman,128,original,S,False,12,0,-7.095234394073486
+big_10,Times New Roman,128,original,T,False,12,0,-8.731693267822266
+big_10,Times New Roman,128,original,U,False,12,0,-6.919744491577148
+big_10,Times New Roman,128,original,V,False,12,0,-10.389652252197266
+big_10,Times New Roman,128,original,W,False,12,0,-9.506020545959473
+big_10,Times New Roman,128,original,X,False,12,0,-5.595178127288818
+big_10,Times New Roman,128,original,Y,False,12,0,-8.084418296813965
+big_10,Times New Roman,128,original,Z,False,12,0,-12.754859924316406
+big_10,Times New Roman,128,drift,A,True,12,12,7.678890100591332
+big_10,Times New Roman,128,drift,B,True,12,12,7.817994032081072
+big_10,Times New Roman,128,drift,C,True,12,12,2.7710623623881365
+big_10,Times New Roman,128,drift,D,True,12,12,6.144143792813241
+big_10,Times New Roman,128,drift,E,True,12,12,8.577653951533309
+big_10,Times New Roman,128,drift,F,True,12,12,7.840102399263711
+big_10,Times New Roman,128,drift,G,True,12,12,8.07139025849562
+big_10,Times New Roman,128,drift,H,False,12,0,-9.083352480578816
+big_10,Times New Roman,128,drift,I,True,12,12,5.399621162984765
+big_10,Times New Roman,128,drift,J,True,12,12,2.0803920406459135
+big_10,Times New Roman,128,drift,K,True,12,12,7.907519558938968
+big_10,Times New Roman,128,drift,L,False,12,0,-12.210843532844281
+big_10,Times New Roman,128,drift,M,False,12,0,-17.632276301434064
+big_10,Times New Roman,128,drift,N,False,12,0,-9.917178037956063
+big_10,Times New Roman,128,drift,O,False,12,0,-10.768726614802501
+big_10,Times New Roman,128,drift,P,False,12,0,-10.314193870266704
+big_10,Times New Roman,128,drift,Q,False,12,0,-6.385146492141543
+big_10,Times New Roman,128,drift,R,False,12,0,-9.40697193816168
+big_10,Times New Roman,128,drift,S,False,12,0,-7.58945851934643
+big_10,Times New Roman,128,drift,T,False,12,0,-10.237581617817881
+big_10,Times New Roman,128,drift,U,False,12,0,-6.286856593289277
+big_10,Times New Roman,128,drift,V,False,12,0,-11.02638114429061
+big_10,Times New Roman,128,drift,W,False,12,0,-11.859317610005634
+big_10,Times New Roman,128,drift,X,False,12,0,-7.8106124787353695
+big_10,Times New Roman,128,drift,Y,False,12,0,-8.598444758850663
+big_10,Times New Roman,128,drift,Z,False,12,0,-16.309827885107456
+big_10,Times New Roman,128,shear4,A,True,12,12,3.1511766478933083
+big_10,Times New Roman,128,shear4,B,True,12,12,9.803779828101169
+big_10,Times New Roman,128,shear4,C,True,12,0,-3.7239617636353626
+big_10,Times New Roman,128,shear4,D,True,12,12,5.82727874135585
+big_10,Times New Roman,128,shear4,E,True,12,11,4.7775455843015235
+big_10,Times New Roman,128,shear4,F,True,12,12,9.300717620941013
+big_10,Times New Roman,128,shear4,G,True,12,12,10.142158166406231
+big_10,Times New Roman,128,shear4,H,False,12,0,-11.634544255561053
+big_10,Times New Roman,128,shear4,I,True,12,10,5.361486429995845
+big_10,Times New Roman,128,shear4,J,True,12,10,2.7544253158940974
+big_10,Times New Roman,128,shear4,K,True,12,12,8.31481231068991
+big_10,Times New Roman,128,shear4,L,False,12,0,-18.594427233663573
+big_10,Times New Roman,128,shear4,M,False,12,0,-15.980364042434267
+big_10,Times New Roman,128,shear4,N,False,12,0,-10.907001249795082
+big_10,Times New Roman,128,shear4,O,False,12,0,-13.556831743379531
+big_10,Times New Roman,128,shear4,P,False,12,0,-11.526944162201511
+big_10,Times New Roman,128,shear4,Q,False,12,0,-10.735311537810565
+big_10,Times New Roman,128,shear4,R,False,12,0,-10.688022683168521
+big_10,Times New Roman,128,shear4,S,False,12,0,-12.366395655441572
+big_10,Times New Roman,128,shear4,T,False,12,0,-10.475441261741528
+big_10,Times New Roman,128,shear4,U,False,12,0,-10.202797146977176
+big_10,Times New Roman,128,shear4,V,False,12,0,-9.105722811778064
+big_10,Times New Roman,128,shear4,W,False,12,0,-11.285902378932859
+big_10,Times New Roman,128,shear4,X,False,12,0,-8.471946558889195
+big_10,Times New Roman,128,shear4,Y,False,12,0,-8.517661139178186
+big_10,Times New Roman,128,shear4,Z,False,12,0,-21.7182496679611
+big_10,Times New Roman,128,bbox_to_64,A,True,12,12,8.987181663513184
+big_10,Times New Roman,128,bbox_to_64,B,True,12,12,7.173231601715088
+big_10,Times New Roman,128,bbox_to_64,C,True,12,12,8.657903671264648
+big_10,Times New Roman,128,bbox_to_64,D,True,12,12,7.632260799407959
+big_10,Times New Roman,128,bbox_to_64,E,True,12,12,8.139472007751465
+big_10,Times New Roman,128,bbox_to_64,F,True,12,12,8.928502082824707
+big_10,Times New Roman,128,bbox_to_64,G,True,12,12,8.135009765625
+big_10,Times New Roman,128,bbox_to_64,H,False,12,12,8.22646427154541
+big_10,Times New Roman,128,bbox_to_64,I,True,12,12,7.890780925750732
+big_10,Times New Roman,128,bbox_to_64,J,True,12,12,7.9614691734313965
+big_10,Times New Roman,128,bbox_to_64,K,True,12,12,7.987023830413818
+big_10,Times New Roman,128,bbox_to_64,L,False,12,12,8.63611125946045
+big_10,Times New Roman,128,bbox_to_64,M,False,12,12,8.570141792297363
+big_10,Times New Roman,128,bbox_to_64,N,False,12,12,8.736804008483887
+big_10,Times New Roman,128,bbox_to_64,O,False,12,12,8.046791076660156
+big_10,Times New Roman,128,bbox_to_64,P,False,12,12,8.970283508300781
+big_10,Times New Roman,128,bbox_to_64,Q,False,12,12,8.375652313232422
+big_10,Times New Roman,128,bbox_to_64,R,False,12,12,8.073031425476074
+big_10,Times New Roman,128,bbox_to_64,S,False,12,12,8.793484687805176
+big_10,Times New Roman,128,bbox_to_64,T,False,12,12,8.224237442016602
+big_10,Times New Roman,128,bbox_to_64,U,False,12,12,8.045019149780273
+big_10,Times New Roman,128,bbox_to_64,V,False,12,12,9.019829750061035
+big_10,Times New Roman,128,bbox_to_64,W,False,12,12,8.7359619140625
+big_10,Times New Roman,128,bbox_to_64,X,False,12,12,8.62989330291748
+big_10,Times New Roman,128,bbox_to_64,Y,False,12,12,8.0888032913208
+big_10,Times New Roman,128,bbox_to_64,Z,False,12,12,8.904805183410645
+big_10,Arial,64,original,A,True,12,0,-9.437442779541016
+big_10,Arial,64,original,B,True,12,12,5.964273452758789
+big_10,Arial,64,original,C,True,12,0,-7.926074981689453
+big_10,Arial,64,original,D,True,12,11,4.8234944343566895
+big_10,Arial,64,original,E,True,12,8,0.663564145565033
+big_10,Arial,64,original,F,True,12,3,-3.6969821453094482
+big_10,Arial,64,original,G,True,12,0,-7.724170684814453
+big_10,Arial,64,original,H,False,12,0,-6.176445007324219
+big_10,Arial,64,original,I,True,12,8,1.1842437982559204
+big_10,Arial,64,original,J,True,12,9,2.2165367603302
+big_10,Arial,64,original,K,True,12,0,-9.867137908935547
+big_10,Arial,64,original,L,False,12,5,-1.4733587503433228
+big_10,Arial,64,original,M,False,12,12,7.040975570678711
+big_10,Arial,64,original,N,False,12,2,-2.6024105548858643
+big_10,Arial,64,original,O,False,12,12,3.3775455951690674
+big_10,Arial,64,original,P,False,12,5,-0.6903625130653381
+big_10,Arial,64,original,Q,False,12,0,-10.044877052307129
+big_10,Arial,64,original,R,False,12,8,3.07365345954895
+big_10,Arial,64,original,S,False,12,0,-7.758945941925049
+big_10,Arial,64,original,T,False,12,0,-9.91005802154541
+big_10,Arial,64,original,U,False,12,2,-4.346531391143799
+big_10,Arial,64,original,V,False,12,0,-11.752755165100098
+big_10,Arial,64,original,W,False,12,0,-9.404214859008789
+big_10,Arial,64,original,X,False,12,0,-5.383716106414795
+big_10,Arial,64,original,Y,False,12,0,-5.739271640777588
+big_10,Arial,64,original,Z,False,12,4,-1.56088125705719
+big_10,Arial,64,drift,A,True,12,0,-9.437442974825798
+big_10,Arial,64,drift,B,True,12,12,5.96427289812157
+big_10,Arial,64,drift,C,True,12,0,-7.9260748137456725
+big_10,Arial,64,drift,D,True,12,11,4.823494409727782
+big_10,Arial,64,drift,E,True,12,8,0.6635643375218387
+big_10,Arial,64,drift,F,True,12,3,-3.6969824755986482
+big_10,Arial,64,drift,G,True,12,0,-7.724170946447664
+big_10,Arial,64,drift,H,False,12,0,-6.176444970250088
+big_10,Arial,64,drift,I,True,12,8,1.1842436939301386
+big_10,Arial,64,drift,J,True,12,9,2.216536905556012
+big_10,Arial,64,drift,K,True,12,0,-9.867136801224214
+big_10,Arial,64,drift,L,False,12,5,-1.473358937343841
+big_10,Arial,64,drift,M,False,12,12,7.040975969602154
+big_10,Arial,64,drift,N,False,12,2,-2.602410672113288
+big_10,Arial,64,drift,O,False,12,12,3.377545573056763
+big_10,Arial,64,drift,P,False,12,5,-0.690362597947872
+big_10,Arial,64,drift,Q,False,12,0,-10.044876643316107
+big_10,Arial,64,drift,R,False,12,8,3.0736531872939814
+big_10,Arial,64,drift,S,False,12,0,-7.75894593705804
+big_10,Arial,64,drift,T,False,12,0,-9.910058300107416
+big_10,Arial,64,drift,U,False,12,2,-4.3465309563164505
+big_10,Arial,64,drift,V,False,12,0,-11.752756592925897
+big_10,Arial,64,drift,W,False,12,0,-9.404214293081205
+big_10,Arial,64,drift,X,False,12,0,-5.383715535669071
+big_10,Arial,64,drift,Y,False,12,0,-5.739271208586014
+big_10,Arial,64,drift,Z,False,12,4,-1.5608819586971385
+big_10,Arial,64,shear4,A,True,12,0,-9.437442974825798
+big_10,Arial,64,shear4,B,True,12,12,5.96427289812157
+big_10,Arial,64,shear4,C,True,12,0,-7.9260748137456725
+big_10,Arial,64,shear4,D,True,12,11,4.823494409727782
+big_10,Arial,64,shear4,E,True,12,8,0.6635643375218387
+big_10,Arial,64,shear4,F,True,12,3,-3.6969824755986482
+big_10,Arial,64,shear4,G,True,12,0,-7.724170946447664
+big_10,Arial,64,shear4,H,False,12,0,-6.176444970250088
+big_10,Arial,64,shear4,I,True,12,8,1.1842436939301386
+big_10,Arial,64,shear4,J,True,12,9,2.216536905556012
+big_10,Arial,64,shear4,K,True,12,0,-9.867136801224214
+big_10,Arial,64,shear4,L,False,12,5,-1.473358937343841
+big_10,Arial,64,shear4,M,False,12,12,7.040975969602154
+big_10,Arial,64,shear4,N,False,12,2,-2.602410672113288
+big_10,Arial,64,shear4,O,False,12,12,3.377545573056763
+big_10,Arial,64,shear4,P,False,12,5,-0.690362597947872
+big_10,Arial,64,shear4,Q,False,12,0,-10.044876643316107
+big_10,Arial,64,shear4,R,False,12,8,3.0736531872939814
+big_10,Arial,64,shear4,S,False,12,0,-7.75894593705804
+big_10,Arial,64,shear4,T,False,12,0,-9.910058300107416
+big_10,Arial,64,shear4,U,False,12,2,-4.3465309563164505
+big_10,Arial,64,shear4,V,False,12,0,-11.752756592925897
+big_10,Arial,64,shear4,W,False,12,0,-9.404214293081205
+big_10,Arial,64,shear4,X,False,12,0,-5.383715535669071
+big_10,Arial,64,shear4,Y,False,12,0,-5.739271208586014
+big_10,Arial,64,shear4,Z,False,12,4,-1.5608819586971385
+big_10,Arial,64,bbox_to_64,A,True,12,0,-9.437443733215332
+big_10,Arial,64,bbox_to_64,B,True,12,12,5.9642720222473145
+big_10,Arial,64,bbox_to_64,C,True,12,0,-7.926074981689453
+big_10,Arial,64,bbox_to_64,D,True,12,11,4.823495388031006
+big_10,Arial,64,bbox_to_64,E,True,12,8,0.6635659337043762
+big_10,Arial,64,bbox_to_64,F,True,12,3,-3.696985960006714
+big_10,Arial,64,bbox_to_64,G,True,12,0,-7.724170207977295
+big_10,Arial,64,bbox_to_64,H,False,12,0,-6.176445007324219
+big_10,Arial,64,bbox_to_64,I,True,12,8,1.1842442750930786
+big_10,Arial,64,bbox_to_64,J,True,12,9,2.216533899307251
+big_10,Arial,64,bbox_to_64,K,True,12,0,-9.86713695526123
+big_10,Arial,64,bbox_to_64,L,False,12,5,-1.473358154296875
+big_10,Arial,64,bbox_to_64,M,False,12,12,7.040975570678711
+big_10,Arial,64,bbox_to_64,N,False,12,2,-2.602410316467285
+big_10,Arial,64,bbox_to_64,O,False,12,12,3.3775460720062256
+big_10,Arial,64,bbox_to_64,P,False,12,5,-0.6903621554374695
+big_10,Arial,64,bbox_to_64,Q,False,12,0,-10.044875144958496
+big_10,Arial,64,bbox_to_64,R,False,12,8,3.073653221130371
+big_10,Arial,64,bbox_to_64,S,False,12,0,-7.758945941925049
+big_10,Arial,64,bbox_to_64,T,False,12,0,-9.910056114196777
+big_10,Arial,64,bbox_to_64,U,False,12,2,-4.346530437469482
+big_10,Arial,64,bbox_to_64,V,False,12,0,-11.752754211425781
+big_10,Arial,64,bbox_to_64,W,False,12,0,-9.404213905334473
+big_10,Arial,64,bbox_to_64,X,False,12,0,-5.383716106414795
+big_10,Arial,64,bbox_to_64,Y,False,12,0,-5.739271640777588
+big_10,Arial,64,bbox_to_64,Z,False,12,4,-1.5608824491500854
+big_10,Arial,128,original,A,True,12,0,-9.871697425842285
+big_10,Arial,128,original,B,True,12,12,5.417874813079834
+big_10,Arial,128,original,C,True,12,0,-7.315467357635498
+big_10,Arial,128,original,D,True,12,8,2.835744619369507
+big_10,Arial,128,original,E,True,12,1,-6.409093379974365
+big_10,Arial,128,original,F,True,12,12,6.733313083648682
+big_10,Arial,128,original,G,True,12,0,-8.89062786102295
+big_10,Arial,128,original,H,False,12,0,-7.438236236572266
+big_10,Arial,128,original,I,True,12,6,-0.5193238854408264
+big_10,Arial,128,original,J,True,12,8,1.3527402877807617
+big_10,Arial,128,original,K,True,12,1,-6.869548797607422
+big_10,Arial,128,original,L,False,12,0,-8.454954147338867
+big_10,Arial,128,original,M,False,12,0,-11.395153999328613
+big_10,Arial,128,original,N,False,12,0,-11.156851768493652
+big_10,Arial,128,original,O,False,12,0,-4.8502373695373535
+big_10,Arial,128,original,P,False,12,0,-8.207651138305664
+big_10,Arial,128,original,Q,False,12,0,-12.586455345153809
+big_10,Arial,128,original,R,False,12,0,-8.559103965759277
+big_10,Arial,128,original,S,False,12,0,-10.224249839782715
+big_10,Arial,128,original,T,False,12,0,-9.93367862701416
+big_10,Arial,128,original,U,False,12,0,-9.777402877807617
+big_10,Arial,128,original,V,False,12,0,-9.81076717376709
+big_10,Arial,128,original,W,False,12,0,-11.990192413330078
+big_10,Arial,128,original,X,False,12,0,-8.630170822143555
+big_10,Arial,128,original,Y,False,12,0,-9.329090118408203
+big_10,Arial,128,original,Z,False,12,0,-14.414788246154785
+big_10,Arial,128,drift,A,True,12,0,-11.593429738274097
+big_10,Arial,128,drift,B,True,12,12,4.7720819721484125
+big_10,Arial,128,drift,C,True,12,0,-14.803413379346571
+big_10,Arial,128,drift,D,True,12,8,1.8392014257402531
+big_10,Arial,128,drift,E,True,12,2,-5.060360844619252
+big_10,Arial,128,drift,F,True,12,12,6.437326541010857
+big_10,Arial,128,drift,G,True,12,0,-7.886047868717239
+big_10,Arial,128,drift,H,False,12,0,-8.642559695114445
+big_10,Arial,128,drift,I,True,12,4,-1.7184762798770168
+big_10,Arial,128,drift,J,True,12,1,-3.122225537779228
+big_10,Arial,128,drift,K,True,12,1,-6.745619068156601
+big_10,Arial,128,drift,L,False,12,0,-7.6538882984774075
+big_10,Arial,128,drift,M,False,12,0,-19.003264454047102
+big_10,Arial,128,drift,N,False,12,0,-11.398882580151202
+big_10,Arial,128,drift,O,False,12,0,-6.544952901057105
+big_10,Arial,128,drift,P,False,12,0,-9.85506705781888
+big_10,Arial,128,drift,Q,False,12,0,-14.914732984935242
+big_10,Arial,128,drift,R,False,12,0,-10.868968929875821
+big_10,Arial,128,drift,S,False,12,0,-10.281735017940262
+big_10,Arial,128,drift,T,False,12,0,-9.001572010479904
+big_10,Arial,128,drift,U,False,12,0,-10.591775976047847
+big_10,Arial,128,drift,V,False,12,0,-6.515514177329912
+big_10,Arial,128,drift,W,False,12,0,-13.552596081389291
+big_10,Arial,128,drift,X,False,12,0,-10.807263832664155
+big_10,Arial,128,drift,Y,False,12,0,-4.014046252986826
+big_10,Arial,128,drift,Z,False,12,0,-17.798201176064527
+big_10,Arial,128,shear4,A,True,12,0,-12.941493262587533
+big_10,Arial,128,shear4,B,True,12,12,6.400298327575034
+big_10,Arial,128,shear4,C,True,12,0,-23.3553555661213
+big_10,Arial,128,shear4,D,True,12,8,-1.416218690649233
+big_10,Arial,128,shear4,E,True,12,1,-9.383340152217414
+big_10,Arial,128,shear4,F,True,12,12,7.844516297764023
+big_10,Arial,128,shear4,G,True,12,0,-9.889720763636733
+big_10,Arial,128,shear4,H,False,12,0,-11.577203668302412
+big_10,Arial,128,shear4,I,True,12,3,-2.8644889325632357
+big_10,Arial,128,shear4,J,True,12,5,-0.6565657739572143
+big_10,Arial,128,shear4,K,True,12,1,-11.453058922325697
+big_10,Arial,128,shear4,L,False,12,0,-8.237361941713475
+big_10,Arial,128,shear4,M,False,12,0,-12.818916862465445
+big_10,Arial,128,shear4,N,False,12,0,-15.323495045227878
+big_10,Arial,128,shear4,O,False,12,0,-7.366958825497297
+big_10,Arial,128,shear4,P,False,12,0,-11.042757587141372
+big_10,Arial,128,shear4,Q,False,12,0,-18.75752947732999
+big_10,Arial,128,shear4,R,False,12,0,-15.593605133976894
+big_10,Arial,128,shear4,S,False,12,0,-12.028587416967865
+big_10,Arial,128,shear4,T,False,12,0,-10.679998513390258
+big_10,Arial,128,shear4,U,False,12,0,-13.788627224338939
+big_10,Arial,128,shear4,V,False,12,0,-8.556128187545594
+big_10,Arial,128,shear4,W,False,12,0,-14.263197799962805
+big_10,Arial,128,shear4,X,False,12,0,-12.371703055852414
+big_10,Arial,128,shear4,Y,False,12,0,-3.739106570035888
+big_10,Arial,128,shear4,Z,False,12,0,-22.416969474530955
+big_10,Arial,128,bbox_to_64,A,True,12,0,-9.40809154510498
+big_10,Arial,128,bbox_to_64,B,True,12,12,6.27876615524292
+big_10,Arial,128,bbox_to_64,C,True,12,0,-7.114709854125977
+big_10,Arial,128,bbox_to_64,D,True,12,11,4.814665794372559
+big_10,Arial,128,bbox_to_64,E,True,12,8,0.5968573689460754
+big_10,Arial,128,bbox_to_64,F,True,12,3,-3.760814905166626
+big_10,Arial,128,bbox_to_64,G,True,12,0,-8.194601058959961
+big_10,Arial,128,bbox_to_64,H,False,12,0,-6.261085033416748
+big_10,Arial,128,bbox_to_64,I,True,12,8,1.0667802095413208
+big_10,Arial,128,bbox_to_64,J,True,12,10,3.8228237628936768
+big_10,Arial,128,bbox_to_64,K,True,12,0,-9.852898597717285
+big_10,Arial,128,bbox_to_64,L,False,12,5,-1.4620857238769531
+big_10,Arial,128,bbox_to_64,M,False,12,12,7.042314052581787
+big_10,Arial,128,bbox_to_64,N,False,12,4,-2.1599786281585693
+big_10,Arial,128,bbox_to_64,O,False,12,11,2.235631227493286
+big_10,Arial,128,bbox_to_64,P,False,12,5,-0.6609744429588318
+big_10,Arial,128,bbox_to_64,Q,False,12,0,-10.024346351623535
+big_10,Arial,128,bbox_to_64,R,False,12,8,3.2303450107574463
+big_10,Arial,128,bbox_to_64,S,False,12,0,-8.604544639587402
+big_10,Arial,128,bbox_to_64,T,False,12,0,-10.05053997039795
+big_10,Arial,128,bbox_to_64,U,False,12,1,-3.689883232116699
+big_10,Arial,128,bbox_to_64,V,False,12,0,-11.097439765930176
+big_10,Arial,128,bbox_to_64,W,False,12,0,-9.434250831604004
+big_10,Arial,128,bbox_to_64,X,False,12,0,-5.389475345611572
+big_10,Arial,128,bbox_to_64,Y,False,12,0,-5.51336145401001
+big_10,Arial,128,bbox_to_64,Z,False,12,5,-0.2380526065826416
